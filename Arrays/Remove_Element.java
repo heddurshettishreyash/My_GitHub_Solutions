@@ -1,5 +1,7 @@
 package Arrays;
 
+import java.util.ArrayList;
+
 public class Remove_Element {
     /*
      Given an integer array nums and an integer val, you need to remove all
@@ -35,4 +37,5 @@ Space Complexity: O(1), as it modifies the array in place.
       }
         return count;
     }
+    
 }
